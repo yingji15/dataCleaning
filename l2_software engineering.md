@@ -261,7 +261,7 @@ Switch to the demographic branch
 
 ```
 git checkout demographic
-``
+```
 
 
 * Scenario #2
@@ -281,6 +281,7 @@ Checkout a commit
 ```
 git checkout bc
 ```
+
 
 After inspecting your code, you realize what modifications made this perform well, and use those for your model.
 
